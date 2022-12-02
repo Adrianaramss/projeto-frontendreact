@@ -1,40 +1,19 @@
-# projeto-frontendreact
+# Projeto Viagens Espaciais 
 
-Esse é o projeto de introdução aos fundamentos do React. Aqui, vamos praticar a estrutura do que consideramos a estrutura do React. O objetivo é que funcione como o front-end de um E-Commerce
 
-- JSX
-- Componentes
-- Props
-- Estado
-- Fluxo de dados no React
-- Renderização de listas
-- Renderização condicional
-- localStorage
+# Sobre
 
-## Instruções
+Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos expostos, filtrar por nome da viagem, valor minimo e máximo. Além disso verificar por ordem crescente e decrescente o valor das viagens. 
 
-O Astrodev deixou um testamento e essa foi a herança deixada pra vocês:
+# Projeto
 
-```
-Estudantes do meu coração,
-Estou querendo montar um e-commerce de itens espaciais e vocês serão responsáveis por essa construção. 
-Pretendo montar diferentes linhas de produtos. 
 
-As possíveis linhas de produto são:
-- Satélites antigos;
-- Roupas espaciais;
-- Camisetas com estampas divertidas relacionadas ao espaço;
-- Viagens espaciais;
-- Meteoritos / aerolitos como pedras preciosas;
-- Brinquedos e produtos infantis temáticos;
-- Naves / Foguetes / Ônibus espaciais;
+![Captura de tela 2022-12-02 101227](https://user-images.githubusercontent.com/111310311/205301562-0df649d9-9743-4a5b-80ba-0491f4605e09.png)
 
-Escolham uma linha dentre essas, e criem um e-commerce de acordo com a lista de requisitos.
 
-**O prazo é até sexta, 23h59.** 
 
-Att.
-```
+
+
 
 # Requisitos
 
