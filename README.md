@@ -9,22 +9,6 @@ Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos e
 
 # Projeto
 
-
-![Captura de tela 2022-12-02 142000](https://user-images.githubusercontent.com/111310311/205349870-e67aa5f5-fac2-4cdc-a83e-1f0972fefea4.png)
-
-
-
-![Captura de tela 2022-12-02 142104](https://user-images.githubusercontent.com/111310311/205350421-f71fa991-34cf-4825-875d-481c35df17ed.png)
-
-
-
-
-# Deploy do projeto
-
-https://needy-picture.surge.sh/
-
-# Requisitos
-
 O projeto consistirá em 3 grandes partes:
 
 1. Home
@@ -40,24 +24,18 @@ O projeto consistirá em 3 grandes partes:
 3. Filtro
     - Por valor mínimo e máximo
     - Por nome do produto
-
-### Lista de Requisitos
-- Home (Lista de Produtos)
-    - [ ]  O usuário deve ser capaz de visualizar uma lista de produtos
-    - [ ]  O usuário deve ser capaz de visualizar os dados do produto (nome, preço e imagem)
-    - [ ]  O usuário deve ser capaz de adicionar um produto no carrinho
-- Carrinho
-    - [ ]  O usuário deve ser capaz de visualizar os produtos adicionados
-    - [ ]  O usuário deve ser capaz de visualizar a quantidade correta de cada produto
-    - [ ]  O usuário deve ser capaz de remover itens do carrinho
-    - [ ]  O usuário deve ser capaz de ver corretamente o valor total de sua compra
-    - [ ]  Quando a página é atualizada, os itens devem continuar no carrinho
-- Filtros e Ordenação
-    - [ ]  O usuário deve ser capaz de filtrar os itens por preço mínimo
-    - [ ]  O usuário deve ser capaz de filtrar os itens por preço máximo
-    - [ ]  O usuário deve ser capaz de realizar uma busca por nome
-    - [ ]  O usuário deve ser capaz de ordenar os itens em ordem crescente ou decrescente
-    - [ ]  O usuário deve ser capaz de adicionar  filtros, busca e ordenação simultaneamente
-    - [ ]  O usuário deve ser capaz de retornar à visualização sem filtros
+      
     
- 
+  
+![Captura de tela 2022-12-02 142000](https://user-images.githubusercontent.com/111310311/205349870-e67aa5f5-fac2-4cdc-a83e-1f0972fefea4.png)
+
+
+
+![Captura de tela 2022-12-02 142104](https://user-images.githubusercontent.com/111310311/205350421-f71fa991-34cf-4825-875d-481c35df17ed.png)
+
+
+# Deploy do projeto
+
+https://needy-picture.surge.sh/ 
+
+
