@@ -1,4 +1,4 @@
-# Projeto Viagens Espaciais 
+# 🚀 Projeto Viagens Espaciais 
 
 Projeto desenvolvido por Adriana Ramos como fixação do contéudo React js.
 
@@ -12,6 +12,12 @@ Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos e
 
 ![Captura de tela 2022-12-02 101227](https://user-images.githubusercontent.com/111310311/205301562-0df649d9-9743-4a5b-80ba-0491f4605e09.png)
 
+
+![Captura de tela 2022-12-02 104258](https://user-images.githubusercontent.com/111310311/205306217-6d0cf97c-338b-4cbd-8fb1-7b7c92ec6a7c.png)
+
+# Deploy do projeto
+
+https://needy-picture.surge.sh/
 
 # Requisitos
 
@@ -30,17 +36,6 @@ O projeto consistirá em 3 grandes partes:
 3. Filtro
     - Por valor mínimo e máximo
     - Por nome do produto
-
-Exemplo de estruturação de **UM** produto (Lembrem-se que vocês terão uma lista contendo todos):
-
-```jsx
-{
-	id: 1,
-	name: "Foguete da Missão Apollo 11",
-	value: 10000.0,
-	imageUrl: "https://picsum.photos/200/200",
-}
-```
 
 ### Lista de Requisitos
 - Home (Lista de Produtos)
@@ -61,37 +56,4 @@ Exemplo de estruturação de **UM** produto (Lembrem-se que vocês terão uma li
     - [ ]  O usuário deve ser capaz de adicionar  filtros, busca e ordenação simultaneamente
     - [ ]  O usuário deve ser capaz de retornar à visualização sem filtros
     
- ### 
-
-O layout da página é escolha de vocês! O exemplo abaixo é só uma implementação bemmm simples das funcionalidades, não se atenham a ele.
-
-http://fluttering-coast.surge.sh/
  
-
-https://user-images.githubusercontent.com/11279432/197185533-14582ca3-9eb0-4a5a-b57c-b94913ff2dd6.mp4
-
-
-
-    
-  ### Conseguiu terminar? Aqui temos alguns **desafios**
-  1. Salvar e Recuperar conteúdo do carrinho usando o `LocalStorage`;
-  2. Dediquem um tempo para melhorar o layout e a usabilidade do seu site! Se baseiem em outros e-commerces que vocês gostam para chegar em um resultado   mais próximo do padrão de design visto no mercado;
-  3. Se TODO O RESTO DO SITE  e os dois desafios anteriores estiverem funcionando, pensem: qual outra funcionalidade está faltando? Decidam o que vocês concordam que poderia ser uma boa adição à loja virtual (pode ser qualquer funcionalidade, desde que vocês consigam implementá-la). Todas as funcionalidades extras implementadas devem ser listadas e explicadas no readme do projeto para que possam ser avaliadas.
-  
-  ## Entrega
-  
-- Faça o fork desse repositório e realize o clone da sua cópia `seu-nome-de-usuario/projeto-frontendreact`.
-   <details>
-   <summary>Quer uma dica?</summary>
-   <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Como adicionar o projeto no repositório"/>
-   </details>
-- Crie os arquivos do projeto dentro deste repo;
-- Execute o fluxo de entrega do git. **Lembre-se de abrir os PRs para seu próprio repositório.**
-- Para isso, você precisará fazer o projeto utilizando **branches**. Evite fazer as alterações direto na branch ```main```
-    <details>
-       <summary>Dúvidas sobre o Git & Github?</summary>
-       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
-    </details>
-- Entregue o **link do repo** no [Formulário de entrega](https://forms.gle/S9XChPZravP3WdxL6) 
-- Utilize o **surge** para fazer o deploy do seu projeto.
-
