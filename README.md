@@ -1,5 +1,7 @@
 # Projeto Viagens Espaciais 
 
+Projeto desenvolvido por Adriana Ramos como fixação do contéudo React js.
+
 
 # Sobre
 
@@ -9,10 +11,6 @@ Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos e
 
 
 ![Captura de tela 2022-12-02 101227](https://user-images.githubusercontent.com/111310311/205301562-0df649d9-9743-4a5b-80ba-0491f4605e09.png)
-
-
-
-
 
 
 # Requisitos
