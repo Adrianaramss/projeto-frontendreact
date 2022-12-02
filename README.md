@@ -10,10 +10,14 @@ Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos e
 # Projeto
 
 
-![Captura de tela 2022-12-02 101227](https://user-images.githubusercontent.com/111310311/205301562-0df649d9-9743-4a5b-80ba-0491f4605e09.png)
+![Captura de tela 2022-12-02 142000](https://user-images.githubusercontent.com/111310311/205349870-e67aa5f5-fac2-4cdc-a83e-1f0972fefea4.png)
 
 
-![Captura de tela 2022-12-02 104258](https://user-images.githubusercontent.com/111310311/205306217-6d0cf97c-338b-4cbd-8fb1-7b7c92ec6a7c.png)
+
+![Captura de tela 2022-12-02 142104](https://user-images.githubusercontent.com/111310311/205350421-f71fa991-34cf-4825-875d-481c35df17ed.png)
+
+
+
 
 # Deploy do projeto
 
