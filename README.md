@@ -25,17 +25,16 @@ O projeto consistirá em 3 grandes partes:
     - Por valor mínimo e máximo
     - Por nome do produto
       
-    
+      
+# Imagem do Site
+  
   
 ![Captura de tela 2022-12-02 142000](https://user-images.githubusercontent.com/111310311/205349870-e67aa5f5-fac2-4cdc-a83e-1f0972fefea4.png)
 
-
-
-![Captura de tela 2022-12-02 142104](https://user-images.githubusercontent.com/111310311/205350421-f71fa991-34cf-4825-875d-481c35df17ed.png)
-
-
-# Deploy do projeto
+# Tecnologias utilizadas no Projeto
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+ 
+ # link do Surge
 
 https://needy-picture.surge.sh/ 
-
 
