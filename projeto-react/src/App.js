@@ -148,6 +148,7 @@ const AdicionarProdutonoCarrinho = (itemAdd) =>{
     })
 
   setAdicionaCarrinho([...AdicionaCarrinho, ...produtosCarrinho])
+  localStorage.setItem("AdicionaCarrinho", JSON.stringify(AdicionaCarrinho))
 
   }
 }
