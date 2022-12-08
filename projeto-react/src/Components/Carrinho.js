@@ -15,7 +15,7 @@ width:259px ;
 flex-direction: column;
 height:600px;
 border-radius: 15px;
-margin: 30px;
+margin: 25px;
 padding: 8px;
 color: white;
 margin-top: 20px;
